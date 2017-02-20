@@ -1,3 +1,1 @@
-# gui_python
-
 # Labs
